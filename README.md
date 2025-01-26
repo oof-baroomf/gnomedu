@@ -10,9 +10,6 @@ The Gnome is a device designed to empower educators in underserved regions with 
 - **Curated Educational Resources**  
    The device maintains a repository of teacher-requested PDFs that are tailored to their specific classroom needs.
 
-- **Smart Storage Management**  
-   Automatically suggests which resources to download and which to delete, ensuring efficient use of the Raspberry Pi's limited storage capacity.
-
 - **Offline Functionality**  
    Entirely independent of internet access, the device is designed to function seamlessly in remote and underserved regions.
 
